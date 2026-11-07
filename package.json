@@ -49,7 +49,7 @@
   ],
   "license": "MIT",
   "main": "./dist/index.js",
-  "mcpName": "io.github.pooriaarab/agentic-postcard",
+  "mcpName": "io.github.itsryanarmani/agentic-postcard",
   "name": "agentic-postcard",
   "publishConfig": {
     "access": "public"
